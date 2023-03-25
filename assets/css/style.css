@@ -457,6 +457,7 @@ h6 {
 }
 
 #hero .icon-box {
+  border-radius: 15%;
   padding: 30px 20px;
   transition: ease-in-out 0.3s;
   border: 1px solid rgba(255, 255, 255, 0.3);
@@ -490,6 +491,8 @@ h6 {
 
 #hero .icon-box:hover {
   border-color: #ffc451;
+  background: #141212;
+  border-color: #75ff10ad;
 }
 
 @media (min-width: 1024px) {
